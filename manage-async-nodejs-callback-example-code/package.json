@@ -1,0 +1,13 @@
+{
+  "name": "manage-async-nodejs-callback-example-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "2.0.1",
+    "mysql": "2.11.1"
+  }
+}
